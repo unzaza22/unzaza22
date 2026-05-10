@@ -13,6 +13,8 @@ Frontend-focused developer who is continuously learning backend development, gro
 - Also exploring: `AI tools`, `modern web technologies`
 - Interested in: `web development`, `clean UI`, `practical products`
 - Working on: `frontend projects`
+- Comfortable with: `Python`
+- Graduation project experience: `Solidity`, `smart contracts`
 - Ask me about: `frontend development`
 - Reach me at: `suwunorder@gmail.com`
 
@@ -22,6 +24,7 @@ Frontend-focused developer who is continuously learning backend development, gro
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss)
@@ -29,6 +32,8 @@ Frontend-focused developer who is continuously learning backend development, gro
 ![Flutter](https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter)
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
+![Solidity](https://img.shields.io/badge/Solidity-111827?style=for-the-badge&logo=solidity)
+![Graduation Project Smart Contracts](https://img.shields.io/badge/Graduation_Project_Smart_Contracts-111827?style=for-the-badge&logo=ethereum)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
 
 ## Featured Projects
